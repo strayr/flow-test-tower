@@ -10,3 +10,5 @@ The following are for guidance only
 - eSun ABS+ at 255C
   - 0.6mm CHT: Completed 34mm3/s tower with no failures, currently doing much printing at 30mm/s without issue
   - 0.4mm reprap/v6: skipped extrusions at 18mm3/s, suspect it's good for 15mm3/s printing
+- 3dQF ABS at 300C
+  - 0.4mm rippling to walls at 22mm3/s, failure at 24mm3/s. Perfect up to and including 20mm3/s
